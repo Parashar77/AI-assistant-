@@ -1,2 +1,2 @@
-# AI-assistant-
+# AI-assistant
 This is a python project 
